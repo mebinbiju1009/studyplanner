@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+stable-baselines3
+gymnasium
+llama-cpp-python
